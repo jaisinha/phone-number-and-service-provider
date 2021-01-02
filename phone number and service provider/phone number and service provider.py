@@ -12,4 +12,4 @@ print(carrier.name_for_number(service_nmber,"en"))
 
 #make a new file in vsc or pycharm or any other python code creating platform and write
 
-#namae="phone number"
+#name="phone number"
